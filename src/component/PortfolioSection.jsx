@@ -1,8 +1,18 @@
 import React from 'react';
-import img1 from '../asset/img1.jpg';
-import img2 from '../asset/img2.jpg';
-import img3 from '../asset/img3.jpg';
-
+import work1 from '../asset/work1.jpeg';
+import work from '../asset/work.jpeg';
+import work3 from '../asset/work3.jpeg';
+import work2 from '../asset/work2.jpeg';
+import work5 from '../asset/work5.jpeg';
+import work6 from '../asset/work6.jpeg';
+import work7 from '../asset/work7.jpeg';
+import work8 from '../asset/work8.jpeg';
+import work9 from '../asset/work9.jpeg';
+import img1 from '../asset/img1.jpeg';
+import img2 from '../asset/img2.jpeg';
+import img3 from '../asset/img3.jpeg';
+import p1 from '../asset/p1.png';
+import p2 from '../asset/p2.png';
 // Import other images...
 
 const PortfolioSection = () => {
@@ -10,12 +20,12 @@ const PortfolioSection = () => {
     <section className="container mx-auto py-12">
       <h2 className="text-3xl font-bold text-center mb-8">Our Work Portfolio</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-        <img src={img1} alt="Work 1" className="rounded-lg" />
-        <img src={img2} alt="Work 2" className="rounded-lg" />
-        <img src={img3} alt="Work 3" className="rounded-lg" />
-        <img src={img1} alt="Work 1" className="rounded-lg" />
-        <img src={img2} alt="Work 2" className="rounded-lg" />
-        <img src={img3} alt="Work 3" className="rounded-lg" />
+        <img src={p1} alt="Work 2" className="rounded-lg" />
+        <img src={work} alt="Work 1" className="rounded-lg" />
+        <img src={p2} alt="Work 3" className="rounded-lg" />
+        <img src={work2} alt="Work 1" className="rounded-lg" />
+        <img src={work5} alt="Work 2" className="rounded-lg" />
+        <img src={work6} alt="Work 3" className="rounded-lg" />
         <img src={img1} alt="Work 1" className="rounded-lg" />
         <img src={img2} alt="Work 2" className="rounded-lg" />
         <img src={img3} alt="Work 3" className="rounded-lg" />

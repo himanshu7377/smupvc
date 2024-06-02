@@ -82,12 +82,12 @@ const framesData = [
 const FramesSection = () => {
     const [hoveredIndex, setHoveredIndex] = useState(null);
   return (
-    <section className="frames py-10">
-      <div className="container mx-auto text-center mb-10">
+    <section className="frames bg-gray-800 py-10">
+      <div className="container text-white mx-auto text-center mb-10">
         <h3 className="text-2xl font-semibold">Our Range of</h3>
         <h2 className="text-4xl font-bold">uPVC,  Windows and Doors</h2>
       </div>
-      <div className="flex flex-wrap justify-center -mx-4">
+      <div className="flex flex-wrap text-white justify-center mx-auto">
         {framesData.map((frame, index) => (
           <div key={index} className="col-sm-6 col-md-6 col-lg-4 frames-box px-4 mb-8">
             <motion.div
