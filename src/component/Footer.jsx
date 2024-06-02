@@ -70,10 +70,10 @@ const Footer = () => {
           <div className="text-center flex-1">
             <h3 className="text-3xl font-bold mb-4">Follow Us</h3>
             <ul className="space-y-8">
-              <li><a href="#" className="text-teal-400 hover:underline">Facebook</a></li>
-              <li><a href="#" className="text-teal-400 hover:underline">Twitter</a></li>
-              <li><a href="#" className="text-teal-400 hover:underline">LinkedIn</a></li>
-              <li><a href="#" className="text-teal-400 hover:underline">Instagram</a></li>
+              <li><p  className="text-teal-400 hover:underline">Facebook</p></li>
+              <li><p  className="text-teal-400 hover:underline">Twitter</p></li>
+              <li><p  className="text-teal-400 hover:underline">LinkedIn</p></li>
+              <li><p  className="text-teal-400 hover:underline">Instagram</p></li>
             </ul>
           </div>
         </div>

@@ -10,7 +10,7 @@ import glassToGlass from '../asset/glass-to-glass.jpg';
 import slidingUpvc from '../asset/sliding-upvc.jpg';
 import fixed from '../asset/fixed.jpg';
 
-import specialShaped from '../asset/special-shaped.jpg';
+
 
 import bayWindowsShaped from '../asset/bay-windows.jpg';
 import archedShaped from '../asset/arched.jpg';
