@@ -82,7 +82,7 @@ const framesData = [
 const FramesSection = () => {
     const [hoveredIndex, setHoveredIndex] = useState(null);
   return (
-    <section className="frames bg-gray-800 py-10">
+    <section className="frames bg-gray-800 mb-3 py-10" id='services'>
       <div className="container text-white mx-auto text-center mb-10">
         <h3 className="text-2xl font-semibold">Our Range of</h3>
         <h2 className="text-4xl font-bold">uPVC,  Windows and Doors</h2>

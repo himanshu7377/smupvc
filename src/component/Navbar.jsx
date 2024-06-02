@@ -6,7 +6,7 @@ const Navbar = () => {
   const [isMobile, setIsMobile] = useState(false);
 
   return (
-    <nav className="bg-gray-800 p-2">
+    <nav className="bg-gray-800 mb-3 p-2">
       <div className="max-w-7xl flex items-center justify-between flex-wrap">
         <div className="flex items-center text-white pl-2">
           <img

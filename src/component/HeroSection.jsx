@@ -25,7 +25,7 @@ const HeroSection = () => {
   };
 
   return (
-    <div className="relative">
+    <div className="relative mb-1" id='home'>
       <Slider {...settings}>
         {slidesData.map((slide, index) => (
           <div key={index} className="relative h-[684px] w-full">

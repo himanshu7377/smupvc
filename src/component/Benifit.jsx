@@ -4,7 +4,7 @@ import { faVolumeUp, faTools, faPaintBrush, faShieldAlt, faBalanceScale, faLock,
 
 const BenefitsSection = () => {
   return (
-    <section className="container  text-white mx-auto py-6 md:py-6 bg-gray-800">
+    <section className="container mb-3  text-white mx-auto py-6 md:py-6 bg-gray-800">
       <h2 className="text-3xl font-bold  text-center mb-6">Why Choose Upvc ?</h2>
       <ul className="grid grid-cols-2 text-black md:grid-cols-3 lg:grid-cols-4 gap-4  p-6 md:py-10">
         <li className="flex items-center justify-center bg-gray-200 rounded-lg p-4 font-bold text-lg">
