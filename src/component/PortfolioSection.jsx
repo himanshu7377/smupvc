@@ -1,13 +1,12 @@
 import React from 'react';
-import work1 from '../asset/work1.jpeg';
+
 import work from '../asset/work.jpeg';
-import work3 from '../asset/work3.jpeg';
+
 import work2 from '../asset/work2.jpeg';
 import work5 from '../asset/work5.jpeg';
 import work6 from '../asset/work6.jpeg';
-import work7 from '../asset/work7.jpeg';
-import work8 from '../asset/work8.jpeg';
-import work9 from '../asset/work9.jpeg';
+
+
 import img1 from '../asset/img1.jpeg';
 import img2 from '../asset/img2.jpeg';
 import img3 from '../asset/img3.jpeg';

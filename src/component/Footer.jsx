@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useForm, ValidationError } from '@formspree/react';
+import { useForm } from '@formspree/react';
 
 const Footer = () => {
   const [state, handleSubmit] = useForm("mwkgdord");
