@@ -12,7 +12,7 @@ const AboutUsSection = () => {
           <div className="lg:w-1/2 text-white lg:pl-12 mt-8 lg:mt-0">
             <h2 className="text-3xl font-bold  mb-4">Why Choose Us</h2>
             <p className=" mb-4">
-              At [Your Company Name], we pride ourselves on delivering exceptional quality and service. Our commitment to excellence sets us apart in the industry.
+              At S.M. Upvc Glasses and Decor, we pride ourselves on delivering exceptional quality and service. Our commitment to excellence sets us apart in the industry.
             </p>
             <ul className="list-disc list-inside text-white" id='about'>
               <li className="mb-2"><strong>Quality Products:</strong> We use the finest materials and state-of-the-art technology to ensure our products meet the highest standards.</li>
